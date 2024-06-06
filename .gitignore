@@ -1,0 +1,15 @@
+#windows
+Thumbs.db
+ethumbs.db
+
+#C
+.obj
+.hex
+.o
+
+#keil
+.uvopt
+.uvproj
+
+#My Configurations:
+!.gitignore
